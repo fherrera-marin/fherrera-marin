@@ -30,9 +30,9 @@ Paralelamente, me estoy especializando en desarrollo de software, trabajando con
 
 Desarrollo de una arquitectura neuronal híbrida basada en redes convolucionales y U-Net para la predicción de campos de velocidad y presión a partir de geometrías aerodinámicas representadas mediante funciones de distancia con signo (SDF).
 
-[Repositorio Hybrid-UNET]([https://github.com/nandoherrera97-code/Hybrid-UNET](https://github.com/fherrera-marin/Hybrid-U-Net))
+[Repositorio Hybrid-UNET](https://github.com/fherrera-marin/Hybrid-U-Net)
 
-### CFD Surrogate Models — Wind Turbine Blades
+### Automated CFD Results Generator
 
 Desarrollo de herramientas en Python para la generación de geometrías NACA y generación de dataset de resultados de simulación CFD mediante OpenFOAM.
 
