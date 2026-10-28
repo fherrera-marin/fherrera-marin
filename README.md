@@ -36,7 +36,7 @@ Desarrollo de una arquitectura neuronal híbrida basada en redes convolucionales
 
 Desarrollo de herramientas en Python para la generación de geometrías NACA y generación de dataset de resultados de simulación CFD mediante OpenFOAM.
 
-[Repositorio CFD Surrogate Models](https://github.com/fherrera-marin/Automated-CFD-Results-Generator)
+[Repositorio CFD Results Generator](https://github.com/fherrera-marin/Automated-CFD-Results-Generator)
 
 ## Formación
 
